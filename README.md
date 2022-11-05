@@ -4,7 +4,7 @@ I currently pursue a Master's Degree in Statistics @Georg-August University Göt
 
 I’m interested in Statistics and especially Machine Learining Methods
 
-Learning interets: Python, R, C
+Learning interests: Python, R, C
 
 
 <!---
