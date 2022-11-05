@@ -1,4 +1,4 @@
-Hi, I’m @Paul Jarschke
+Hi, I’m @Paul Jarschke :)
 
 I currently pursue a Master's Degree in Statistics @Georg-August University Göttingen.
 
