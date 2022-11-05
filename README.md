@@ -1,10 +1,8 @@
-Hi, I’m @Paul Jarschke
-I currently pursue a Master's Degree in Statistics @Georg-August University Göttingen 
-I’m interested in Statistics and especially Machine Learining Methods
-Learning interets:
-- Python
-- R 
-- C
+-Hi, I’m @Paul Jarschke
+-I currently pursue a Master's Degree in Statistics @Georg-August University Göttingen.
+
+-I’m interested in Statistics and especially Machine Learining Methods
+-Learning interets:Python, R, C
 
 
 <!---
