@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Paul Jarschke
-- 👀 I’m interested in Statistics and especially Machine Learining Methods
-- 🌱 I’m currently learning Python and R
+Hi, I’m @Paul Jarschke
+I currently pursue a Master's Degree in Statistics @Georg-August University Göttingen 
+I’m interested in Statistics and especially Machine Learining Methods
+Learning interets:
+- Python
+- R 
+- C
 
 
 <!---
